@@ -1,0 +1,5 @@
+-r requirements.txt
+yt-dlp>=2026.8.19
+faster-whisper>=1.2,<2
+pypdf>=6,<7
+python-docx>=1.2,<2

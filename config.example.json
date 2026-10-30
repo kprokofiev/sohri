@@ -1,0 +1,15 @@
+{
+  "owner_id": 0,
+  "provider": "codex",
+  "execution_enabled": false,
+  "profile": {
+    "goals": "",
+    "interests": "",
+    "constraints": "",
+    "language": "ru",
+    "completed": false
+  },
+  "whisper_model": "small",
+  "max_media_seconds": 900,
+  "projects": {}
+}
